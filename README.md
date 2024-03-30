@@ -1,6 +1,6 @@
-# Machine Learning Coursework Repository
+# ST3189 Machine Learning Coursework Repository
 
-Welcome to the Machine Learning coursework repository! This repository contains code and resources for various machine learning tasks including classification, regression, and natural language processing (NLP).
+This repository contains code and resources for various machine learning tasks including classification, regression, and natural language processing (NLP).
 
 ## Folders
 
